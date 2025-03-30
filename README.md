@@ -1,69 +1,73 @@
-# Welcome to your Lovable project
+# Women-Led MSME Growth Platform
 
-## Project info
+This project is designed to help women-led MSMEs (Micro, Small, and Medium Enterprises) overcome market access barriers by leveraging technology. It improves supply chain connections, increases digital visibility, and simplifies procurement system participation.
 
-**URL**: https://lovable.dev/projects/160477c6-9d4c-4880-a5cf-bce3598b37ef
+## 🚀 Features
 
-## How can I edit this code?
+- **Supply Chain Integration** – Connects businesses with larger supply chains.
+- **Digital Visibility** – Enhances online presence for better market reach.
+- **Procurement System Access** – Simplifies participation in procurement opportunities.
+- **E-Commerce Enablement** – Helps businesses thrive in digital commerce.
+- **User-Friendly Dashboard** – Easy-to-use interface for managing business growth.
 
-There are several ways of editing your application.
+## 🛠️ Tech Stack
 
-**Use Lovable**
+- **Frontend:** React (Vite), Tailwind CSS
+- **Backend:** Golang
+- **Database:** Firebase (Firestore & Storage)
+- **Hosting:** Firebase Hosting
+- **Authentication:** Firebase Auth
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/160477c6-9d4c-4880-a5cf-bce3598b37ef) and start prompting.
+## 📦 Installation
 
-Changes made via Lovable will be committed automatically to this repo.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/women-msme-platform.git
+   cd women-msme-platform
+   ```
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+4. **Backend Setup (Golang)**
+   - Ensure Go is installed.
+   - Navigate to the backend directory and run:
+     ```bash
+     go run main.go
+     ```
 
-**Use your preferred IDE**
+## 🔧 Configuration
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Create a `.env` file and add your Firebase configuration:
+  ```env
+  VITE_FIREBASE_API_KEY=your_api_key
+  VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
+  VITE_FIREBASE_PROJECT_ID=your_project_id
+  VITE_FIREBASE_STORAGE_BUCKET=your_storage_bucket
+  VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
+  VITE_FIREBASE_APP_ID=your_app_id
+  ```
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 📸 Screenshots
 
-Follow these steps:
+![Dashboard](screenshots/dashboard.png)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📬 Contact
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- **Abhishek** - [2516abhi43@gmail.com](mailto:2516abhi43@gmail.com)
+- **Utkarsh** - [utkarsh.cloudops@gmail.com](mailto:utkarsh.cloudops@gmail.com)
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🤝 Contributing
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+1. Fork the repository.
+2. Create a new branch (`feature-name`).
+3. Commit your changes.
+4. Push to your fork and submit a Pull Request.
 
-**Edit a file directly in GitHub**
+## 📜 License
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/160477c6-9d4c-4880-a5cf-bce3598b37ef) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+This project is licensed under the MIT License.
