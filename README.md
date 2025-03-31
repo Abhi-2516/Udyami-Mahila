@@ -56,9 +56,10 @@ This project is designed to help women-led MSMEs (Micro, Small, and Medium Enter
 
 ##  Landing Page
 ![Dashboard](UI.png)
-##  Dashboard
-
-## Funding Form
+### Dashboard
+![Dashboard](dashboard.png)
+### Funding Form
+![Funding Form](funding-form.png)
 
 ## 📬 Contact
 
