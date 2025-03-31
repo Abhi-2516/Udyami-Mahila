@@ -54,7 +54,7 @@ This project is designed to help women-led MSMEs (Micro, Small, and Medium Enter
 
 ## 📸 Screenshots
 
-![Dashboard](Screenshots/Screenshot 2025-03-31 221018.png)
+![Dashboard](UI.png)
 
 ## 📬 Contact
 
