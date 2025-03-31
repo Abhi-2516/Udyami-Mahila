@@ -22,8 +22,8 @@ This project is designed to help women-led MSMEs (Micro, Small, and Medium Enter
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/women-msme-platform.git
-   cd women-msme-platform
+   git clone https://github.com/Abhi-2516/Udyami-Mahila
+   cd Udyami-Mahila
    ```
 2. **Install dependencies:**
    ```bash
