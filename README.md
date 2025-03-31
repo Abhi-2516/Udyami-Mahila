@@ -9,6 +9,7 @@ This project is designed to help women-led MSMEs (Micro, Small, and Medium Enter
 - **Procurement System Access** – Simplifies participation in procurement opportunities.
 - **E-Commerce Enablement** – Helps businesses thrive in digital commerce.
 - **User-Friendly Dashboard** – Easy-to-use interface for managing business growth.
+- **ChatBot** – To get quick information.
 
 ## 🛠️ Tech Stack
 
